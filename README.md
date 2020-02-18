@@ -10,17 +10,17 @@ The Student Industrial Work Experience Record System
 
 ## Technologies Used
 
-* [PHP5] HyperText Preprocessor
-* [HTML] Hypertext MarkUp Language
-* [CSS] Cascading Stylesheet
-* [CKEditor] is a WYSIWYG rich text editor which enables writing content directly inside of web pages or online applications.
-* [fpdf]is a PHP class which allows to generate PDF files with pure PHP, that is to say without using the PDFlib library.
+* [PHP5](https://php5-tutorial.com/) HyperText Preprocessor
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) Hypertext MarkUp Language
+* [CSS](https://www.w3schools.com/css/) Cascading Stylesheet
+* [CKEditor](https://ckeditor.com/) is a WYSIWYG rich text editor which enables writing content directly inside of web pages or online applications.
+* [fpdf](http://www.fpdf.org/) is a PHP class which allows to generate PDF files with pure PHP, that is to say without using the PDFlib library.
 
 ## Installations
 
 ### Getting started
 
-* InstalL of WAMP/XAMPP/MAMP
+* Install either WAMP/XAMPP/MAMP
 
 ### Clone
 
