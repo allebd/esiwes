@@ -48,21 +48,21 @@ The Student Industrial Work Experience Record System (Version 2 - MySQLi)
 
 * Creation of a new student
   > Go to the "reglist" table in your "esiwes" database insert a record e.g.\
-  matno = '150523' (To serve as the student username)\
-  fno = '150523' (To serve as the student password)\
+  matno = '150523' (To serve as the student's username)\
+  fno = '150523' (To serve as the student's password)\
   fname = 'James'\
   sname = 'Bond'\
   sex = 'Male'\
   yog = '2023'\
   level = '300'\
-  program = 'Computer Science'\
+  program = 'Computer Science'
 
 * Creation of a new admin/supervisors
   > Go to the "stafflist" table in your "esiwes" database insert a record e.g.\
-  staffId = '50001' (To serve as the supervisor username)\
+  staffId = '50001' (To serve as the supervisor's username)\
   fname = 'Tunji'\
-  sname = 'James' (To serve as the supervisor password)\
-  sex = 'Male'\
+  sname = 'James' (To serve as the supervisor's password)\
+  sex = 'Male'
 
 * Start your apache server then
   > Run the command below
